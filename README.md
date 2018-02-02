@@ -1,6 +1,6 @@
 # No longer maintained, use [Atom Layout Control](https://github.com/rafamel/atom-layout-control) instead
 
-I'm not really using Atom anymore. **Check out [Atom Layout Control](https://github.com/rafamel/atom-layout-control)** for the same functionality this provided plus some other additional stuff.
+I'm not really using Atom anymore, but [Atom Layout Control](https://github.com/rafamel/atom-layout-control) has the same functionality this provided plus some other additional stuff.
 
 # n-panes package
 
